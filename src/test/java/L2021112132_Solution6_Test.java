@@ -14,7 +14,7 @@ public class L2021112132_Solution6_Test {
         List <List<String>> favoriteCompanies = new ArrayList<>();
         List <String> first = new ArrayList<>(Arrays.asList("leetcode","google","facebook"));
         List <String> second = new ArrayList<>(Arrays.asList("google","microsoft"));
-        List <String> third = new ArrayList<>(Arrays.asList("google","facebook"));
+        List <String> third = new ArrayList<>(Arrays.asList("googl","facebook"));
         List <String> forth = new ArrayList<>(Arrays.asList("google"));
         List <String> fifth = new ArrayList<>(Arrays.asList("amazon"));
         favoriteCompanies.add(first);
